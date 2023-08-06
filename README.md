@@ -31,8 +31,6 @@
 
 <br />
 
-#
-
 <a href="https://github.com/lucasbusto">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasbusto&count_private=true&show_icons=true&hide=stars" />
 </a>
