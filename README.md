@@ -29,7 +29,8 @@
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
 
-<br />
+
+#
 
 <a href="https://github.com/lucasbusto">
   <img src="https://github-readme-stats.vercel.app/api?username=lucasbusto&count_private=true&show_icons=true&hide=stars" />
