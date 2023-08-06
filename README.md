@@ -8,9 +8,6 @@
 - 💬 **I have experience**: .NET, C#, APIs, Angular, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, AWS, Azure, CI/CD
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
 
-<hr/>
-
-
 ---
 
 ### 🧰 Languages and Tools
@@ -28,7 +25,7 @@
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain-wordmark.svg" />
-
+<br />
 
 #
 
