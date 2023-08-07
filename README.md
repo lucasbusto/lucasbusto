@@ -1,5 +1,5 @@
 <p>
-   <img src="https://ibb.co/FX0BQtB" alt="CL Thumb" border="0" width="100%">
+   <img src="[https://ibb.co/FX0BQtB](https://i.ibb.co/w7wKn1K/linkedln-image.jpg)" alt="CL Thumb" border="0" width="100%">
 </p>
 
 <p align="center">
