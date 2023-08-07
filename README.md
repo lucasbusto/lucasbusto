@@ -1,14 +1,24 @@
-### Hi there, I'm Lucas Busto! 👋 <div align = 'right'>![](https://komarev.com/ghpvc/?username=lucasbusto&color=blue)</div>
+<p>
+   <img src="https://ibb.co/FX0BQtB" alt="CL Thumb" border="0" width="100%">
+</p>
+
+<p align="center">
+  <!--<a href="https://instagram.com/">Instagram</a> •
+  <a href="https://youtube.com/">Youtube Channel (in portuguese)</a> • -->
+</p>
+
+#
+### Hi there, I'm Lucas Busto! 👨🏻‍💻 <div align = 'right'>![](https://komarev.com/ghpvc/?username=lucasbusto&color=blue)</div>
 
 [![LinkedIn URL](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/lucas-busto/)
 
-## **I'm a Software Engineer | .NET **
+I'm an experienced software engineer with a focus on web development and back-end. Since 2015, I've been creating innovative products that impact people's lives, and enjoy staying up-to-date with the latest technologies to evolve with the industry.
 
 - 🎯 **I’m currently working on**: Mastering the intricacies of distributed systems, DDD, and some advanced software architectures
 - 💬 **I have experience**: .NET, C#, APIs, Angular, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, AWS, Azure, CI/CD
 - 📫 **How to reach me**: Reach out and connect with me on LinkedIn! 👆
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -29,6 +39,10 @@
 
 #
 
-<a href="https://github.com/lucasbusto">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasbusto&count_private=true&show_icons=true&hide=stars" />
-</a>
+### 📊 Stats
+
+![Lucas Busto GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasbusto&hide=contribs&show_icons=true&theme=radical)
+
+#
+
+
